@@ -81,6 +81,9 @@ This is the profile of the user. Basically it contains the personal information 
 ![image](https://user-images.githubusercontent.com/98228696/173197927-35f0a1a9-a284-42a4-99d0-28d7f5409354.png)
 
 
+<<p align="center">Made with ❤️ by [Rhythm Bhavsar](https://github.com/rhythmbhavsar)</p>
+
+
 
 
 
